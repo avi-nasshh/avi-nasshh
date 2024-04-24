@@ -19,7 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi-nasshh&show_icons=true&locale=en&layout=compact" alt="avi-nasshh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avi-nasshh&show_icons=true&locale=en" alt="avi-nasshh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi-nasshh&" alt="avi-nasshh" /></p>
 
