@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **avinash.dubey.9783@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GmTousI7C-l2LjRkbk9Qb7sA9A0h5ATO/view?usp=sharing](https://drive.google.com/file/d/1GmTousI7C-l2LjRkbk9Qb7sA9A0h5ATO/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1GmTousI7C-l2LjRkbk9Qb7sA9A0h5ATO/view?usp=sharing](https://drive.google.com/file/d/1wzEMlVfJWH918c45tvnIQnu24yUZg3lP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
